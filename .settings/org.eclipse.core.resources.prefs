@@ -1,0 +1,9 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=branch 'master' of https\://gitlab.com/ControlTraficoTP/Practica4
+eclipse.preferences.version=1
+encoding//src/Carretera/Road.java=UTF-8
+encoding//src/Cruce/IntervalInRoad.java=UTF-8
+encoding//src/Cruce/Junction.java=UTF-8
+encoding//src/Default/RoadMap.java=UTF-8
+encoding//src/MVC/View.java=UTF-8
